@@ -21,7 +21,6 @@ public class TestBase  {
             capabilities.setCapability("browserName", System.getProperty("browserName", "chrome"));
             capabilities.setCapability("browserVersion", System.getProperty("browserVersion", "99"));
             Configuration.browserCapabilities = capabilities;
-            Configuration.baseUrl = "https://demoqa.com";
             Configuration.browserSize = System.getProperty("browserSize", "1920x1080");
 
             if (System.getProperty("remote") != null)
