@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15f2819b-abd6-4b46-9618-c0b2cf8971e6" name="Changes" comment="DZ11_jenkins">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ponomarev/andrei/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ponomarev/andrei/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +60,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/qaguru/C14-Marduuk-HW12&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/qaguru/DZ5(11)&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qaguru\DZ5(11)" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\qaguru\DZ2\untitled\src\test\resources\PracticeForm" />
       <recent name="D:\qaguru\DZ2\untitled\src\test\resources" />
@@ -219,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663003392788</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DZ11_jenkins">
+      <created>1663003739801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663003739801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
